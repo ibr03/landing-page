@@ -16,13 +16,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots from the app
 
-    ![Alt text](./public/images/screenshot1.JPG)
+![screenshot 1](./public/images/screenshot1.JPG)
 
-    ![Alt text](./public/images/screenshot2.JPG)
+![screenshot 2](./public/images/screenshot2.JPG)
 
 ## Code References
 
-    https://github.com/akashyap2013/nextjs_blog_app/tree/22_Finishing
+https://github.com/akashyap2013/nextjs_blog_app/tree/22_Finishing
 
 ## Deploy on Vercel
 
