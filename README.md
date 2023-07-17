@@ -16,9 +16,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots from the app
 
-    ![Alt text](image.png)
+    ![Alt text](./public/images/screenshot1.JPG)
 
-    ![Alt text](image-1.png)
+    ![Alt text](./public/images/screenshot2.JPG)
 
 ## Code References
 
